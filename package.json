@@ -1,0 +1,23 @@
+{
+  "name": "eiland-vue",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Takuya Nishio",
+  "license": "MIT",
+  "dependencies": {
+    "vue": "^3"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.23.7",
+    "@babel/preset-env": "^7.23.8",
+    "@vue/test-utils": "^2.4.3",
+    "@vue/vue3-jest": "^28",
+    "babel-jest": "^28",
+    "babel-plugin-transform-import-meta": "^2.2.1",
+    "jest-environment-jsdom": "^28"
+  }
+}
